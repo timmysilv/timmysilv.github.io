@@ -1,8 +1,12 @@
-<div class="max-w-3xl">
-	<h1 class="text-4xl sm:text-5xl font-bold mb-4 bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
+<script lang="ts">
+	import { gradientStyles, sectionStyles } from '$lib/style';
+</script>
+
+<div class={sectionStyles.container}>
+	<h1 class={`${sectionStyles.title} ${gradientStyles.games}`}>
 		Games that I have made
 	</h1>
-	<p class="text-lg text-slate-300">
+	<p class={sectionStyles.paragraph}>
 		What do you know? There's nothing here.
 	</p>
 </div>
