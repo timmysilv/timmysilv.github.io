@@ -14,6 +14,7 @@
 		<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 			<div class="flex items-center justify-center gap-6 py-4">
 				<a href="/" class="px-4 py-2 rounded-lg hover:bg-slate-700/50 transition-colors duration-200 font-medium">Home</a>
+					<a href="/apps" class="px-4 py-2 rounded-lg hover:bg-slate-700/50 transition-colors duration-200 font-medium">Apps</a>
 				<a href="/games" class="px-4 py-2 rounded-lg hover:bg-slate-700/50 transition-colors duration-200 font-medium">Games</a>
 				<a href="/blog" class="px-4 py-2 rounded-lg hover:bg-slate-700/50 transition-colors duration-200 font-medium">Blog Posts</a>
 				<a href="/memes" class="px-4 py-2 rounded-lg hover:bg-slate-700/50 transition-colors duration-200 font-medium">Memes</a>
